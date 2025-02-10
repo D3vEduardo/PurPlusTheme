@@ -3,7 +3,7 @@
   "description": "A junção do Dracula theme com o Bearded Theme HC Ebony.",
   "displayName": "Pur+ Theme",
   "icon": "assets/icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.22.0"

@@ -2,8 +2,6 @@
 
 Pur+ Theme é um tema minimalista e futurista para o **VS Code**, criado com tons de **roxo** e **azul**. Ideal para quem busca uma estética limpa e suave, mantendo o foco na produtividade. 🚀
 
-![Preview](https://via.placeholder.com/1200x600?text=Adicione+uma+imagem+de+preview+aqui)
-
 ---
 
 ## 📌 Instalação
@@ -26,8 +24,7 @@ Pur+ Theme é um tema minimalista e futurista para o **VS Code**, criado com ton
 ---
 
 ## 🖼 Preview
-
-// Prints futuramente ficaram aqui XD
+![Print 01](https://github.com/D3vEduardo/PurPlusTheme/blob/main/assets/print.png?raw=true)
 
 ---
 
@@ -39,4 +36,4 @@ Tem alguma sugestão ou encontrou um bug? Abra uma **issue** no [GitHub](https:/
 
 ---
 
-💜 **Feito por [DevEduardo](https://github.com/seu-usuario)**
+💜 **Feito por [DevEduardo](https://github.com/D3vEduardo)**

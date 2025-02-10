@@ -1,0 +1,61 @@
+{
+  "name": "purplus-theme",
+  "description": "A junção do Dracula theme com o Bearded Theme HC Ebony.",
+  "displayName": "Pur+ Theme",
+  "icon": "assets/icon.png",
+  "version": "0.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pur+ Dark",
+        "uiTheme": "vs-dark",
+        "path": "/themes/purplus-theme-dark.json"
+      }
+    ]
+  },
+  "publisher": "DevEduardo",
+  "release": {
+    "type": "git",
+    "repositoryUrl": "https://github.com/D3vEduardo/PurPlusTheme",
+    "url": "https://github.com/D3vEduardo/PurPlusTheme"
+  },
+  "keywords": [
+    "vscode-theme",
+    "dark-theme",
+    "minimalist",
+    "modern",
+    "clean",
+    "aesthetic",
+    "futuristic",
+    "developer-theme",
+    "syntax-highlighting",
+    "high-contrast",
+    "coding-theme",
+    "pro-theme",
+    "UI-enhancement",
+    "purple-theme",
+    "blue-theme",
+    "neon",
+    "cyberpunk",
+    "vibrant",
+    "soft-colors",
+    "minimal",
+    "no-distraction",
+    "professional",
+    "hacker-theme"
+  ],
+  "dependencies": {
+    "vsce": "^2.15.0"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  }
+}

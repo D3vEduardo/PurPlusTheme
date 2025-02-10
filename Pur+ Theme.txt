@@ -1,0 +1,2 @@
+Background = #181820
+Icos = #28242c

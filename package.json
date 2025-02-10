@@ -3,7 +3,7 @@
   "description": "A junção do Dracula theme com o Bearded Theme HC Ebony.",
   "displayName": "Pur+ Theme",
   "icon": "assets/icon.png",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.22.0"
@@ -14,9 +14,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pur+ Dark",
+        "label": "Pur+ Theme V1",
         "uiTheme": "vs-dark",
-        "path": "/themes/purplus-theme-dark.json"
+        "path": "/themes/purplus-theme-dark-v1.json"
+      },
+      {
+        "label": "Pur+ Theme V2",
+        "uiTheme": "vs-dark",
+        "path": "/themes/purplus-theme-dark-v2.json"
       }
     ]
   },

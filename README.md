@@ -30,7 +30,7 @@ Pur+ Theme é um tema minimalista e futurista para o **VS Code**, criado com ton
 
 ## 📢 Feedback e Contribuições
 
-Tem alguma sugestão ou encontrou um bug? Abra uma **issue** no [GitHub](https://github.com/seu-usuario/pur-plus-theme)!
+Tem alguma sugestão ou encontrou um bug? Abra uma **issue** no [GitHub](https://github.com/D3vEduardo/PurPlusTheme)!
 
 ⭐ Se gostou do tema, **avalie na [Marketplace](https://marketplace.visualstudio.com/items?itemName=DevEduardo.purplus-theme)** e compartilhe!
 
